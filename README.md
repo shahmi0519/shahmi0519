@@ -1,4 +1,12 @@
-<h1 align="center">Hi there, I'm A.J. Ahamed Shahmi 👋</h1>
+<!-- New Profile README -->
+
+
+
+
+
+
+<!-- Old Profile README -->
+<!-- <h1 align="center">Hi there, I'm A.J. Ahamed Shahmi 👋</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shahmi0519/shahmi0519/main/assets/banner.png" alt="Banner" />
@@ -64,4 +72,4 @@
   <a href="mailto:shahmiahamed0519@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</p> -->
