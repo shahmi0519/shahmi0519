@@ -39,7 +39,8 @@ Arxia lets you have deep conversations about landmark AI/ML research papers. It 
 | Backend | FastAPI on AWS EC2 |
 | Frontend | React + Vite on Vercel |
 
-🔗 **[Live Demo](https://verite-research-assistant.vercel.app)** &nbsp;|&nbsp; 📁 **[GitHub Repo](https://github.com/shahmi0519/verite-research-assistant)**
+<!-- 🔗 **[Live Demo](https://verite-research-assistant.vercel.app)** &nbsp;|&nbsp; -->
+📁 **[GitHub Repo](https://github.com/shahmi0519/ArXiv-research-assistant/tree/main)**
 
 ---
 
