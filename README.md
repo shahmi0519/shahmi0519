@@ -13,13 +13,13 @@
   <a href="mailto:shahmiahamed0519@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://verite-research-assistant.vercel.app" target="_blank">
+  <!-- <a href="https://verite-research-assistant.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Arxia_Demo-Live-1D9E75?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <!-- Add your YouTube link below when ready -->
-  <!-- <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a> -->
+  <!-- Add your YouTube link below when ready -->
+  <a href="https://youtube.com/@AJACADEMY-0519" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
