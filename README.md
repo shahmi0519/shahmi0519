@@ -74,10 +74,10 @@ Arxia lets you have deep conversations about landmark AI/ML research papers. It 
 ### 🌱 About Me
 
 - 🎓 Electrical and Information Engineer at **University of Ruhuna**
-- 🏢 Built a production-grade RAG chatbot during a junior AI engineer assessment at **Verité Research** (Sri Lankan think tank)
+<!-- - 🏢 Built a production-grade RAG chatbot during a junior AI engineer assessment at **Verité Research** (Sri Lankan think tank) -->
 - 📺 Creating a beginner-focused **ML/AI curriculum on YouTube** — 5-phase, 80+ planned episodes covering ML foundations → deep learning → NLP/LLMs → MLOps
 - 🔬 Deeply interested in RAG architectures, agentic AI, and LLM fine-tuning
-- 🔍 Actively seeking **AI/ML engineering roles**
+<!-- - 🔍 Actively seeking **AI/ML engineering roles** -->
 
 ---
 
